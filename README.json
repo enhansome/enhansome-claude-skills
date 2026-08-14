@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "description": "Skills tell your agent how to work. An MCP Gateway gives it secure access to the tools it needs.\nComposio MCP Gateway provides a single MCP endpoint for 1,000+ integrations with built-in authentication, team-based access controls, audit logs, and production-ready reliability.",
+      "items": [],
+      "title": "Give your skills real-world actions"
+    },
+    {
+      "description": "The connect-apps plugin lets Claude perform real actions - send emails, create issues, post to Slack. It handles auth and connects to 1000+ apps using Composio under the hood.",
+      "items": [],
+      "title": "Quickstart: Connect Claude to 1000+ Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Install the Plugin"
+    },
+    {
+      "description": "Paste your API key when asked. (Get a free key at dashboard.composio.dev)",
+      "items": [],
+      "title": "2. Run Setup"
+    },
+    {
+      "description": "If you receive the email, Claude is now connected to 1000+ apps.\nSee all supported apps →",
+      "items": [],
+      "title": "3. Restart & Try It"
+    },
+    {
+      "description": "Claude Skills are reusable instruction packages that teach an AI agent how to handle a specific class of tasks. Each skill is a folder containing a file with YAML frontmatter (name, description) and Markdown instructions, optionally bundled with scripts, references, and assets. Anthropic introduced the format in October 2025 and released it as an open standard in December 2025; it's now supported by Claude Code, Claude.ai, the Claude API, OpenAI Codex, Cursor, Gemini CLI, Antigravity, and Windsurf.\nSkills load progressively. At session start, the agent sees only each skill's name and description — roughly 100 tokens per skill. The full SKILL.md body (typically under 5,000 tokens) loads only when the agent decides the skill is relevant to the current task. Auxiliary files in and load on demand. This is what lets a single agent host hundreds of skills without bloating its context window.\nSkills are not MCP servers and not tools. MCP defines how an agent connects to external systems — auth, transport, tool discovery. Tools are the individual functions an agent invokes. Skills define the workflow — what to do, in what order, with what guardrails — once the agent has the connections and tools it needs. In production, all three layers run together: MCP for access, tools for actions, skills for behavior.",
+      "items": [],
+      "title": "What Are Claude Skills?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Skills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docx",
+          "description": "Create, edit, analyze Word docs with tracked changes, comments, formatting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:09:56Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 169174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdf",
+          "description": "Extract text, tables, metadata, merge & annotate PDFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:09:56Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 169174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pptx",
+          "description": "Read, generate, and adjust slides, layouts, templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:09:56Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 169174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xlsx",
+          "description": "Spreadsheet manipulation: formulas, charts, data transformations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:09:56Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 169174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown to EPUB Converter",
+          "description": "Converts markdown documents and chat summaries into professional EPUB ebook files. By @smerchek",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-18T00:40:32Z",
+            "owner": "smerchek",
+            "repo": "claude-epub-skill",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Master Claude for Legal",
+          "description": "Skill pack for legal teams. NDA triage, multi-party version diff, citation verifier, meeting brief, and the Friday-newsletter status synthesis pattern. Includes 10 reference docs (privilege, verification, long documents, practice areas) and 3 firm templates. Built from the public Anthropic Claude for Legal Teams webinar dataset. By @sboghossian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-18T08:07:35Z",
+            "owner": "sboghossian",
+            "repo": "master-claude-for-legal",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Document Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "finishing-a-development-branch",
+          "description": "Guides completion of development work by presenting clear options and handling chosen workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-driven-development",
+          "description": "Use when implementing any feature or bugfix, before writing implementation code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "using-git-worktrees",
+          "description": "Creates isolated git worktrees with smart directory selection and safety verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "artifacts-builder",
+          "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:09:56Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 169174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skill Seekers",
+          "description": "Automatically converts any documentation website into a Claude AI skill in minutes. By @yusufkaraaslan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:13:26Z",
+            "owner": "yusufkaraaslan",
+            "repo": "Skill_Seekers",
+            "stars": 14756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reddit-fetch",
+          "description": "Fetches Reddit content via Gemini CLI when WebFetch is blocked or returns 403 errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-06T01:26:59Z",
+            "owner": "ykdojo",
+            "repo": "claude-code-tips",
+            "stars": 9614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lean-ctx",
+          "description": "MCP server and context runtime for AI coding agents: session caching, AST-aware compression, and 90+ shell patterns to reduce token usage. Supports Claude Code, Cursor, Copilot, and other integrations. Install the Claude Code skill with ; docs at leanctx.com. By @yvgude",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T12:59:06Z",
+            "owner": "yvgude",
+            "repo": "lean-ctx",
+            "stars": 3573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright Browser Automation",
+          "description": "Model-invoked Playwright automation for testing and validating web applications. By @lackeyjb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T13:10:22Z",
+            "owner": "lackeyjb",
+            "repo": "playwright-skill",
+            "stars": 3026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prompt-engineering",
+          "description": "Teaches well-known prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:07:42Z",
+            "owner": "NeoLabHQ",
+            "repo": "context-engineering-kit",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "software-architecture",
+          "description": "Implements design patterns including Clean Architecture, SOLID principles, and comprehensive software design best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:07:42Z",
+            "owner": "NeoLabHQ",
+            "repo": "context-engineering-kit",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subagent-driven-development",
+          "description": "Dispatches independent subagents for individual tasks with code review checkpoints between iterations for rapid, controlled development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:07:42Z",
+            "owner": "NeoLabHQ",
+            "repo": "context-engineering-kit",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS Simulator",
+          "description": "Enables Claude to interact with iOS Simulator for testing and debugging iOS applications. By @conorluddy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T15:29:20Z",
+            "owner": "conorluddy",
+            "repo": "ios-simulator-skill",
+            "stars": 1212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jules",
+          "description": "Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, tests, and feature implementation on GitHub repos. By @sanjay3290",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T21:13:00Z",
+            "owner": "sanjay3290",
+            "repo": "ai-skills",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-skills",
+          "description": "AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T14:37:32Z",
+            "owner": "zxkane",
+            "repo": "aws-skills",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D3.js Visualization",
+          "description": "Teaches Claude to produce D3 charts and interactive data visualizations. By @chrisvoncsefalvay",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-18T02:29:55Z",
+            "owner": "chrisvoncsefalvay",
+            "repo": "claude-d3js-skill",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FFUF Web Fuzzing",
+          "description": "Integrates the ffuf web fuzzer so Claude can run fuzzing tasks and analyze results for vulnerabilities. By @jthack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T19:39:14Z",
+            "owner": "jthack",
+            "repo": "ffuf_claude_skill",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Code Terminal Title",
+          "description": "Gives each Claud-Code terminal window a dynamic title that describes the work being done so you don't lose track of what window is doing what.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-31T13:03:48Z",
+            "owner": "bluzername",
+            "repo": "claude-code-terminal-title",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pypict-claude-skill",
+          "description": "Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T20:31:42Z",
+            "owner": "omkamal",
+            "repo": "pypict-claude-skill",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "great_cto",
+          "description": "Claude Code plugin: 7 specialised subagents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) orchestrating a full SDLC pipeline — architecture, TDD, 12-angle code review, QA, security audit, deploy. 11 project archetypes auto-detected, 13 compliance frameworks (GDPR/PCI-DSS/HIPAA/SOC2/ISO 27001), self-improving knowledge layer that learns from every incident. By @avelikiy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T14:45:58Z",
+            "owner": "avelikiy",
+            "repo": "great_cto",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenWeb",
+          "description": "Agent-native way to access any website. Calls the same APIs the website calls (JSON in, JSON out) with auth (cookies, JWT, CSRF, signing) auto-resolved per request. 90+ sites built in. By @openweb-org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-27T09:03:44Z",
+            "owner": "imoonkey",
+            "repo": "openweb",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "move-code-quality-skill",
+          "description": "Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-21T21:19:41Z",
+            "owner": "1NickPappas",
+            "repo": "move-code-quality-skill",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "overkill",
+          "description": "Surfaces advanced, maximalist alternatives to whatever solution is being discussed — advanced data structures, distributed-systems algorithms, niche frameworks, design patterns, and frontier tooling — each ranked on a calibrated complexity scale with learning links and the scenario in which the path pays off. By @santiago-vargas-de-kruijf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-27T07:54:48Z",
+            "owner": "santiago-vargas-de-kruijf",
+            "repo": "claude-overkill",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Full-Page Screenshot",
+          "description": "Captures full-page screenshots of web pages via Chrome DevTools Protocol with zero dependencies. By @LewisLiu007",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-28T07:10:19Z",
+            "owner": "LewisLiu007",
+            "repo": "full-page-screenshot",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "building-blog",
+          "description": "Adds an SEO-first, i18n-ready blog to a Next.js + Sanity site via a 40-question intake, a one-page plan, and a 20-section spec. Includes a generator for AI hero images via Gemini 3 Pro Image (Nano Banana Pro). By @BuildShipGrowRepeat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-21T23:15:37Z",
+            "owner": "BuildShipGrowRepeat",
+            "repo": "nextjs-sanity-blog-skill",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Development & Code Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "root-cause-tracing",
+          "description": "Use when errors occur deep in execution and you need to trace back to find the original trigger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSV Data Summarizer",
+          "description": "Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. By @coffeefuelbump",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T20:20:06Z",
+            "owner": "coffeefuelbump",
+            "repo": "csv-data-summarizer-claude-skill",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deep-research",
+          "description": "Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews. By @sanjay3290",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T21:13:00Z",
+            "owner": "sanjay3290",
+            "repo": "ai-skills",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postgres",
+          "description": "Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. By @sanjay3290",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T21:13:00Z",
+            "owner": "sanjay3290",
+            "repo": "ai-skills",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recursive-research",
+          "description": "Recursive research up to PhD level across any domain (science, tech, business, arts, humanities) with source tiering, WDM + Munger inversion for autonomous decisions, and disk checkpointing to survive context compaction. By @Anjos2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-22T23:57:39Z",
+            "owner": "Anjos2",
+            "repo": "recursive-research",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Data & Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "brainstorming",
+          "description": "Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotebookLM Integration",
+          "description": "Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. By @PleasePrompto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-21T17:42:12Z",
+            "owner": "PleasePrompto",
+            "repo": "notebooklm-skill",
+            "stars": 7620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "article-extractor",
+          "description": "Extract full article text and metadata from web pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T22:36:51Z",
+            "owner": "michalparkola",
+            "repo": "tapestry-skills",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "family-history-research",
+          "description": "Provides assistance with planning family history and genealogy research projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-18T23:29:55Z",
+            "owner": "emaynard",
+            "repo": "claude-family-history-research-skill",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Communication & Writing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "youtube-transcript",
+          "description": "Fetch transcripts from YouTube videos and prepare summaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T22:36:51Z",
+            "owner": "michalparkola",
+            "repo": "tapestry-skills",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imagen",
+          "description": "Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. By @sanjay3290",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T21:13:00Z",
+            "owner": "sanjay3290",
+            "repo": "ai-skills",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swiftui-design-skill",
+          "description": "SwiftUI 前端设计 skill — 反 AI Slop 六条铁律、设计方向顾问、品牌资产协议、五维评审。支持 Claude Code / Cursor / Codex / OpenCode 等全部 AI agent 平台。 By @wholiver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-01T05:20:08Z",
+            "owner": "Wholiver",
+            "repo": "swiftui-design-skill",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anydesign",
+          "description": "Analyzes any image, URL, or Figma file and generates a structured with the full design system, component inventory, and reconstruction notes — portable to v0, Lovable, Cursor or any AI builder. By @uxKero",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T13:43:26Z",
+            "owner": "uxKero",
+            "repo": "anydesign",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixelbin-Media-Generation",
+          "description": "Generate and edit images & videos with 85+ API portfolio and build visually appealing website pages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-06T04:57:37Z",
+            "owner": "anandpareek-hub",
+            "repo": "pixelbin-claude-skill",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Creative & Media"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kaizen",
+          "description": "Applies continuous improvement methodology with multiple analytical approaches, based on Japanese Kaizen philosophy and Lean methodology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:07:42Z",
+            "owner": "NeoLabHQ",
+            "repo": "context-engineering-kit",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ship-learn-next",
+          "description": "Skill to help iterate on what to build or learn next, based on feedback loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T22:36:51Z",
+            "owner": "michalparkola",
+            "repo": "tapestry-skills",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tapestry",
+          "description": "Interlink and summarize related documents into knowledge networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T22:36:51Z",
+            "owner": "michalparkola",
+            "repo": "tapestry-skills",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "n8n-skills",
+          "description": "Enables AI assistants to directly understand and operate n8n workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T12:45:33Z",
+            "owner": "haunchen",
+            "repo": "n8n-skills",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solo-skills",
+          "description": "7 bilingual (EN+中文) skills for solo founders and indie devs: launch tweets, customer emails, decision frameworks, postmortems. Each skill includes an explicit \"When NOT to use\" section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T08:49:39Z",
+            "owner": "rockscy",
+            "repo": "solo-skills",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Productivity & Organization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "git-pushing",
+          "description": "Automate git operations and repository interactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "review-implementing",
+          "description": "Evaluate code implementation plans and align with specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-fixing",
+          "description": "Detect failing tests and propose patches or fixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google-workspace-skills",
+          "description": "Suite of Google Workspace integrations: Gmail, Calendar, Chat, Docs, Sheets, Slides, and Drive with cross-platform OAuth. By @sanjay3290",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T21:13:00Z",
+            "owner": "sanjay3290",
+            "repo": "ai-skills",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "outline",
+          "description": "Search, read, create, and manage documents in Outline wiki instances (cloud or self-hosted). By @sanjay3290",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T21:13:00Z",
+            "owner": "sanjay3290",
+            "repo": "ai-skills",
+            "stars": 398
+          }
+        }
+      ],
+      "title": "Collaboration & Project Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "computer-forensics",
+          "description": "Digital forensics analysis and investigation techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "file-deletion",
+          "description": "Secure file deletion and data sanitization methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metadata-extraction",
+          "description": "Extract and analyze file metadata for forensic purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T06:09:24Z",
+            "owner": "mhattingpete",
+            "repo": "claude-skills-marketplace",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "threat-hunting-with-sigma-rules",
+          "description": "Use Sigma detection rules to hunt for threats and analyze security events.",
+          "children": []
+        }
+      ],
+      "title": "Security & Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Getting Started"
+    },
+    {
+      "description": "Use the Claude Skills API to programmatically load and manage skills:\nSee the Skills API documentation for details.",
+      "items": [],
+      "title": "Using Skills via API"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Creating Skills"
+    },
+    {
+      "description": "Each skill is a folder containing a file with YAML frontmatter:",
+      "items": [],
+      "title": "Skill Structure"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Basic Skill Template"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "This repository is licensed under the Apache License 2.0.\nIndividual skills may have different licenses - please check each skill's folder for specific licensing information.\nNote: Claude Skills work across Claude.ai, Claude Code, and the Claude API. Once you create a skill, it's portable across all platforms, making your workflows consistent everywhere you use Claude.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:43:20.711Z",
+    "original_repository": "ComposioHQ/awesome-claude-skills",
+    "original_repository_sha": "be2a406907dbc61b73e6827ded415c96139d13a2",
+    "enhanced_repository": "enhansome/enhansome-claude-skills",
+    "enhanced_repository_description": null,
+    "title": "Awesome claude skills with stars"
+  }
+}
