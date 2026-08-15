@@ -49,7 +49,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169174
+            "stars": 169425
           }
         },
         {
@@ -63,7 +63,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169174
+            "stars": 169425
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169174
+            "stars": 169425
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169174
+            "stars": 169425
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2025-10-18T00:40:32Z",
             "owner": "smerchek",
             "repo": "claude-epub-skill",
-            "stars": 150
+            "stars": 151
           }
         },
         {
@@ -119,7 +119,7 @@
             "last_commit": "2026-05-18T08:07:35Z",
             "owner": "sboghossian",
             "repo": "master-claude-for-legal",
-            "stars": 54
+            "stars": 56
           }
         }
       ],
@@ -139,7 +139,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 271849
+            "stars": 272223
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 271849
+            "stars": 272223
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 271849
+            "stars": 272223
           }
         },
         {
@@ -181,7 +181,7 @@
             "last_commit": "2026-08-13T18:09:56Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169174
+            "stars": 169425
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-09T13:13:26Z",
             "owner": "yusufkaraaslan",
             "repo": "Skill_Seekers",
-            "stars": 14756
+            "stars": 14760
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2026-08-06T01:26:59Z",
             "owner": "ykdojo",
             "repo": "claude-code-tips",
-            "stars": 9614
+            "stars": 9620
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-13T12:59:06Z",
             "owner": "yvgude",
             "repo": "lean-ctx",
-            "stars": 3573
+            "stars": 3576
           }
         },
         {
@@ -234,10 +234,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T13:10:22Z",
+            "last_commit": "2026-08-14T13:51:33Z",
             "owner": "lackeyjb",
             "repo": "playwright-skill",
-            "stars": 3026
+            "stars": 3029
           }
         },
         {
@@ -248,10 +248,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:07:42Z",
+            "last_commit": "2026-08-14T19:19:27Z",
             "owner": "NeoLabHQ",
             "repo": "context-engineering-kit",
-            "stars": 1333
+            "stars": 1336
           }
         },
         {
@@ -262,10 +262,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:07:42Z",
+            "last_commit": "2026-08-14T19:19:27Z",
             "owner": "NeoLabHQ",
             "repo": "context-engineering-kit",
-            "stars": 1333
+            "stars": 1336
           }
         },
         {
@@ -276,10 +276,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:07:42Z",
+            "last_commit": "2026-08-14T19:19:27Z",
             "owner": "NeoLabHQ",
             "repo": "context-engineering-kit",
-            "stars": 1333
+            "stars": 1336
           }
         },
         {
@@ -293,7 +293,7 @@
             "last_commit": "2026-06-18T15:29:20Z",
             "owner": "conorluddy",
             "repo": "ios-simulator-skill",
-            "stars": 1212
+            "stars": 1214
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2025-10-16T19:39:14Z",
             "owner": "jthack",
             "repo": "ffuf_claude_skill",
-            "stars": 205
+            "stars": 206
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-01-31T13:03:48Z",
             "owner": "bluzername",
             "repo": "claude-code-terminal-title",
-            "stars": 135
+            "stars": 137
           }
         },
         {
@@ -410,20 +410,6 @@
         },
         {
           "node_type": "item",
-          "title": "move-code-quality-skill",
-          "description": "Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-10-21T21:19:41Z",
-            "owner": "1NickPappas",
-            "repo": "move-code-quality-skill",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
           "title": "overkill",
           "description": "Surfaces advanced, maximalist alternatives to whatever solution is being discussed — advanced data structures, distributed-systems algorithms, niche frameworks, design patterns, and frontier tooling — each ranked on a calibrated complexity scale with learning links and the scenario in which the path pays off. By @santiago-vargas-de-kruijf",
           "children": [],
@@ -433,6 +419,20 @@
             "last_commit": "2026-05-27T07:54:48Z",
             "owner": "santiago-vargas-de-kruijf",
             "repo": "claude-overkill",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "move-code-quality-skill",
+          "description": "Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-21T21:19:41Z",
+            "owner": "1NickPappas",
+            "repo": "move-code-quality-skill",
             "stars": 23
           }
         },
@@ -481,7 +481,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 271849
+            "stars": 272223
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2025-10-16T20:20:06Z",
             "owner": "coffeefuelbump",
             "repo": "csv-data-summarizer-claude-skill",
-            "stars": 446
+            "stars": 447
           }
         },
         {
@@ -557,7 +557,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 271849
+            "stars": 272223
           }
         },
         {
@@ -571,7 +571,7 @@
             "last_commit": "2025-11-21T17:42:12Z",
             "owner": "PleasePrompto",
             "repo": "notebooklm-skill",
-            "stars": 7620
+            "stars": 7629
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2026-07-18T23:29:55Z",
             "owner": "emaynard",
             "repo": "claude-family-history-research-skill",
-            "stars": 101
+            "stars": 102
           }
         }
       ],
@@ -647,7 +647,7 @@
             "last_commit": "2026-05-01T05:20:08Z",
             "owner": "Wholiver",
             "repo": "swiftui-design-skill",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -661,7 +661,7 @@
             "last_commit": "2026-06-11T13:43:26Z",
             "owner": "uxKero",
             "repo": "anydesign",
-            "stars": 156
+            "stars": 158
           }
         },
         {
@@ -692,10 +692,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:07:42Z",
+            "last_commit": "2026-08-14T19:19:27Z",
             "owner": "NeoLabHQ",
             "repo": "context-engineering-kit",
-            "stars": 1333
+            "stars": 1336
           }
         },
         {
@@ -924,7 +924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:43:20.711Z",
+    "last_updated": "2026-08-15T04:39:36.597Z",
     "original_repository": "ComposioHQ/awesome-claude-skills",
     "original_repository_sha": "be2a406907dbc61b73e6827ded415c96139d13a2",
     "enhanced_repository": "enhansome/enhansome-claude-skills",
