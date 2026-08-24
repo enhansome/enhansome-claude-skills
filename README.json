@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171228
+                "stars": 171317
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171228
+                "stars": 171317
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171228
+                "stars": 171317
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171228
+                "stars": 171317
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276750
+                "stars": 276916
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276750
+                "stars": 276916
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276750
+                "stars": 276916
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171228
+                "stars": 171317
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-09T13:13:26Z",
                 "owner": "yusufkaraaslan",
                 "repo": "Skill_Seekers",
-                "stars": 14810
+                "stars": 14814
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-23T16:41:42Z",
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 9867
+                "stars": 9876
               }
             },
             {
@@ -201,10 +201,10 @@
                 "archived": false,
                 "id": 1189918673,
                 "language": "Rust",
-                "last_commit": "2026-08-24T04:25:31Z",
+                "last_commit": "2026-08-24T13:45:56Z",
                 "owner": "yvgude",
                 "repo": "lean-ctx",
-                "stars": 3639
+                "stars": 3643
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-08-14T13:51:33Z",
                 "owner": "lackeyjb",
                 "repo": "playwright-skill",
-                "stars": 3053
+                "stars": 3056
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2026-06-18T15:29:20Z",
                 "owner": "conorluddy",
                 "repo": "ios-simulator-skill",
-                "stars": 1226
+                "stars": 1228
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2026-06-15T14:37:32Z",
                 "owner": "zxkane",
                 "repo": "aws-skills",
-                "stars": 351
+                "stars": 352
               }
             },
             {
@@ -381,7 +381,7 @@
                 "archived": false,
                 "id": 1201775350,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T09:45:22Z",
+                "last_commit": "2026-08-24T12:26:46Z",
                 "owner": "avelikiy",
                 "repo": "great_cto",
                 "stars": 82
@@ -481,7 +481,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276750
+                "stars": 276916
               }
             },
             {
@@ -511,7 +511,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -526,7 +526,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -553,6 +553,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Brand Build Skills",
+              "description": "59-skill library covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Stack-agnostic with an Ahrefs MCP-powered SEO audit suite. Includes a meta-skill for writing your own. By @rampstackco",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1224033309,
+                "language": "Python",
+                "last_commit": "2026-08-10T19:43:31Z",
+                "owner": "rampstackco",
+                "repo": "claude-skills",
+                "stars": 707
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Business & Marketing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "brainstorming",
               "description": "Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.",
               "children": [],
@@ -563,7 +585,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276750
+                "stars": 276916
               }
             },
             {
@@ -578,7 +600,7 @@
                 "last_commit": "2025-11-21T17:42:12Z",
                 "owner": "PleasePrompto",
                 "repo": "notebooklm-skill",
-                "stars": 7672
+                "stars": 7676
               }
             },
             {
@@ -645,7 +667,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -839,7 +861,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -854,7 +876,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 403
+                "stars": 404
               }
             }
           ],
@@ -913,13 +935,35 @@
           "description": null,
           "node_type": "group",
           "title": "Security & Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ASD-AuDHD-PAI-Skills",
+              "description": "New collection, first skill pda-reframing can reframe requests or decisions to defeat Persistent Demand Avoidance flavors of autism spectrum disorders, or people with ADHD that struggle to Start tasks and need help aligning with a task.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1118370353,
+                "language": null,
+                "last_commit": "2025-12-17T17:36:35Z",
+                "owner": "emory",
+                "repo": "ASD-AuDHD-PAI-Skills",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Assistive Technology"
         }
       ],
       "title": "Skills"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:54:51.506Z",
+    "last_updated": "2026-08-24T13:48:35.197Z",
     "original_repository": "ComposioHQ/awesome-claude-skills",
     "original_repository_id": 1078079172,
     "original_repository_sha": "be2a406907dbc61b73e6827ded415c96139d13a2",
