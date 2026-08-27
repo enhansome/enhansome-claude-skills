@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171617
+                "stars": 171967
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171617
+                "stars": 171967
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171617
+                "stars": 171967
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171617
+                "stars": 171967
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-10-18T00:40:32Z",
                 "owner": "smerchek",
                 "repo": "claude-epub-skill",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-05-18T08:07:35Z",
                 "owner": "sboghossian",
                 "repo": "master-claude-for-legal",
-                "stars": 58
+                "stars": 59
               }
             }
           ],
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 277643
+                "stars": 278380
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 277643
+                "stars": 278380
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 277643
+                "stars": 278380
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171617
+                "stars": 171967
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 1078319457,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:24:33Z",
+                "last_commit": "2026-08-27T06:03:49Z",
                 "owner": "yusufkaraaslan",
                 "repo": "Skill_Seekers",
-                "stars": 14831
+                "stars": 14842
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-25T17:10:32Z",
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 9933
+                "stars": 9957
               }
             },
             {
@@ -201,10 +201,10 @@
                 "archived": false,
                 "id": 1189918673,
                 "language": "Rust",
-                "last_commit": "2026-08-26T04:20:58Z",
+                "last_commit": "2026-08-26T12:25:47Z",
                 "owner": "yvgude",
                 "repo": "lean-ctx",
-                "stars": 3653
+                "stars": 3658
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-08-14T13:51:33Z",
                 "owner": "lackeyjb",
                 "repo": "playwright-skill",
-                "stars": 3066
+                "stars": 3069
               }
             },
             {
@@ -231,10 +231,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:06:12Z",
+                "last_commit": "2026-08-26T21:08:01Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1392
+                "stars": 1413
               }
             },
             {
@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:06:12Z",
+                "last_commit": "2026-08-26T21:08:01Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1392
+                "stars": 1413
               }
             },
             {
@@ -261,10 +261,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:06:12Z",
+                "last_commit": "2026-08-26T21:08:01Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1392
+                "stars": 1413
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2026-06-18T15:29:20Z",
                 "owner": "conorluddy",
                 "repo": "ios-simulator-skill",
-                "stars": 1233
+                "stars": 1234
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2026-06-15T14:37:32Z",
                 "owner": "zxkane",
                 "repo": "aws-skills",
-                "stars": 353
+                "stars": 354
               }
             },
             {
@@ -381,7 +381,7 @@
                 "archived": false,
                 "id": 1201775350,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T18:16:28Z",
+                "last_commit": "2026-08-27T08:37:53Z",
                 "owner": "avelikiy",
                 "repo": "great_cto",
                 "stars": 83
@@ -481,7 +481,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 277643
+                "stars": 278380
               }
             },
             {
@@ -496,7 +496,7 @@
                 "last_commit": "2025-10-16T20:20:06Z",
                 "owner": "coffeefuelbump",
                 "repo": "csv-data-summarizer-claude-skill",
-                "stars": 453
+                "stars": 455
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2026-08-10T19:43:31Z",
                 "owner": "rampstackco",
                 "repo": "claude-skills",
-                "stars": 757
+                "stars": 775
               }
             }
           ],
@@ -585,7 +585,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 277643
+                "stars": 278380
               }
             },
             {
@@ -600,7 +600,7 @@
                 "last_commit": "2025-11-21T17:42:12Z",
                 "owner": "PleasePrompto",
                 "repo": "notebooklm-skill",
-                "stars": 7684
+                "stars": 7701
               }
             },
             {
@@ -615,7 +615,7 @@
                 "last_commit": "2026-03-11T22:36:51Z",
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 526
+                "stars": 528
               }
             },
             {
@@ -652,7 +652,7 @@
                 "last_commit": "2026-03-11T22:36:51Z",
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 526
+                "stars": 528
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2026-05-01T05:20:08Z",
                 "owner": "Wholiver",
                 "repo": "swiftui-design-skill",
-                "stars": 174
+                "stars": 176
               }
             },
             {
@@ -697,7 +697,7 @@
                 "last_commit": "2026-06-11T13:43:26Z",
                 "owner": "uxKero",
                 "repo": "anydesign",
-                "stars": 163
+                "stars": 164
               }
             },
             {
@@ -731,10 +731,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:06:12Z",
+                "last_commit": "2026-08-26T21:08:01Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1392
+                "stars": 1413
               }
             },
             {
@@ -749,7 +749,7 @@
                 "last_commit": "2026-03-11T22:36:51Z",
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 526
+                "stars": 528
               }
             },
             {
@@ -764,7 +764,7 @@
                 "last_commit": "2026-03-11T22:36:51Z",
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 526
+                "stars": 528
               }
             },
             {
@@ -779,7 +779,7 @@
                 "last_commit": "2026-08-23T07:33:46Z",
                 "owner": "haunchen",
                 "repo": "n8n-skills",
-                "stars": 390
+                "stars": 391
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 664
+                "stars": 666
               }
             },
             {
@@ -831,7 +831,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 664
+                "stars": 666
               }
             },
             {
@@ -846,7 +846,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 664
+                "stars": 666
               }
             },
             {
@@ -898,7 +898,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 664
+                "stars": 666
               }
             },
             {
@@ -913,7 +913,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 664
+                "stars": 666
               }
             },
             {
@@ -928,7 +928,7 @@
                 "last_commit": "2026-07-25T06:09:24Z",
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 664
+                "stars": 666
               }
             }
           ],
@@ -950,7 +950,7 @@
                 "last_commit": "2025-12-17T17:36:35Z",
                 "owner": "emory",
                 "repo": "ASD-AuDHD-PAI-Skills",
-                "stars": 37
+                "stars": 38
               }
             }
           ],
@@ -963,9 +963,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:49:15.986Z",
-    "original_repository": "ComposioHQ/awesome-claude-skills",
-    "original_repository_id": 1078079172,
+    "last_updated": "2026-08-27T11:29:36.855Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1078079172,
+      "language": "Python",
+      "last_commit": "2026-08-10T21:45:44Z",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "stars": 73416
+    },
     "original_repository_sha": "be2a406907dbc61b73e6827ded415c96139d13a2",
     "enhanced_repository": "enhansome/enhansome-claude-skills",
     "enhanced_repository_description": null,
