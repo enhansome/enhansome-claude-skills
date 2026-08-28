@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172007
-              }
+                "stars": 172236
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172007
-              }
+                "stars": 172236
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172007
-              }
+                "stars": 172236
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172007
-              }
+                "stars": 172236
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "smerchek",
                 "repo": "claude-epub-skill",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "sboghossian",
                 "repo": "master-claude-for-legal",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -114,8 +120,9 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278482
-              }
+                "stars": 278957
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -129,8 +136,9 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278482
-              }
+                "stars": 278957
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -144,8 +152,9 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278482
-              }
+                "stars": 278957
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -159,8 +168,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172007
-              }
+                "stars": 172236
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -174,8 +184,9 @@
                 "last_commit": "2026-08-27T06:03:49Z",
                 "owner": "yusufkaraaslan",
                 "repo": "Skill_Seekers",
-                "stars": 14842
-              }
+                "stars": 14846
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -189,8 +200,9 @@
                 "last_commit": "2026-08-25T17:10:32Z",
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 9956
-              }
+                "stars": 9962
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -204,8 +216,9 @@
                 "last_commit": "2026-08-26T12:25:47Z",
                 "owner": "yvgude",
                 "repo": "lean-ctx",
-                "stars": 3660
-              }
+                "stars": 3667
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -219,8 +232,9 @@
                 "last_commit": "2026-08-14T13:51:33Z",
                 "owner": "lackeyjb",
                 "repo": "playwright-skill",
-                "stars": 3069
-              }
+                "stars": 3072
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -234,8 +248,9 @@
                 "last_commit": "2026-08-26T21:08:01Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1416
-              }
+                "stars": 1457
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -249,8 +264,9 @@
                 "last_commit": "2026-08-26T21:08:01Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1416
-              }
+                "stars": 1457
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -264,8 +280,9 @@
                 "last_commit": "2026-08-26T21:08:01Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1416
-              }
+                "stars": 1457
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -279,8 +296,9 @@
                 "last_commit": "2026-06-18T15:29:20Z",
                 "owner": "conorluddy",
                 "repo": "ios-simulator-skill",
-                "stars": 1234
-              }
+                "stars": 1233
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -294,8 +312,9 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 404
-              }
+                "stars": 405
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "zxkane",
                 "repo": "aws-skills",
                 "stars": 354
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "chrisvoncsefalvay",
                 "repo": "claude-d3js-skill",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -339,8 +360,9 @@
                 "last_commit": "2025-10-16T19:39:14Z",
                 "owner": "jthack",
                 "repo": "ffuf_claude_skill",
-                "stars": 209
-              }
+                "stars": 210
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "bluzername",
                 "repo": "claude-code-terminal-title",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "omkamal",
                 "repo": "pypict-claude-skill",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -381,11 +405,12 @@
                 "archived": false,
                 "id": 1201775350,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T14:36:12Z",
+                "last_commit": "2026-08-28T14:35:10Z",
                 "owner": "avelikiy",
                 "repo": "great_cto",
-                "stars": 83
-              }
+                "stars": 85
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "imoonkey",
                 "repo": "openweb",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -414,8 +440,9 @@
                 "last_commit": "2026-05-27T07:54:48Z",
                 "owner": "santiago-vargas-de-kruijf",
                 "repo": "claude-overkill",
-                "stars": 25
-              }
+                "stars": 26
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "1NickPappas",
                 "repo": "move-code-quality-skill",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "LewisLiu007",
                 "repo": "full-page-screenshot",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "BuildShipGrowRepeat",
                 "repo": "nextjs-sanity-blog-skill",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -481,8 +511,9 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278482
-              }
+                "stars": 278957
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -497,7 +528,8 @@
                 "owner": "coffeefuelbump",
                 "repo": "csv-data-summarizer-claude-skill",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -511,8 +543,9 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 404
-              }
+                "stars": 405
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -526,8 +559,9 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 404
-              }
+                "stars": 405
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -542,7 +576,8 @@
                 "owner": "Anjos2",
                 "repo": "recursive-research",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -560,11 +595,12 @@
                 "archived": false,
                 "id": 1224033309,
                 "language": "Python",
-                "last_commit": "2026-08-10T19:43:31Z",
+                "last_commit": "2026-08-28T15:42:52Z",
                 "owner": "rampstackco",
                 "repo": "claude-skills",
-                "stars": 777
-              }
+                "stars": 779
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -585,8 +621,9 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278482
-              }
+                "stars": 278957
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -600,8 +637,9 @@
                 "last_commit": "2025-11-21T17:42:12Z",
                 "owner": "PleasePrompto",
                 "repo": "notebooklm-skill",
-                "stars": 7701
-              }
+                "stars": 7715
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -616,7 +654,8 @@
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -631,7 +670,8 @@
                 "owner": "emaynard",
                 "repo": "claude-family-history-research-skill",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -653,7 +693,8 @@
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -667,8 +708,9 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 404
-              }
+                "stars": 405
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -682,8 +724,9 @@
                 "last_commit": "2026-05-01T05:20:08Z",
                 "owner": "Wholiver",
                 "repo": "swiftui-design-skill",
-                "stars": 176
-              }
+                "stars": 178
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -697,8 +740,9 @@
                 "last_commit": "2026-06-11T13:43:26Z",
                 "owner": "uxKero",
                 "repo": "anydesign",
-                "stars": 164
-              }
+                "stars": 166
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -713,7 +757,8 @@
                 "owner": "anandpareek-hub",
                 "repo": "pixelbin-claude-skill",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -734,8 +779,9 @@
                 "last_commit": "2026-08-26T21:08:01Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1416
-              }
+                "stars": 1457
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -750,7 +796,8 @@
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -765,7 +812,8 @@
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -780,7 +828,8 @@
                 "owner": "haunchen",
                 "repo": "n8n-skills",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -795,7 +844,8 @@
                 "owner": "rockscy",
                 "repo": "solo-skills",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -817,7 +867,8 @@
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -832,7 +883,8 @@
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -847,7 +899,8 @@
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -861,8 +914,9 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 404
-              }
+                "stars": 405
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -876,8 +930,9 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 404
-              }
+                "stars": 405
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -899,7 +954,8 @@
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -914,7 +970,8 @@
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             },
             {
               "node_type": "item",
@@ -929,7 +986,8 @@
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -951,7 +1009,8 @@
                 "owner": "emory",
                 "repo": "ASD-AuDHD-PAI-Skills",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
             }
           ],
           "description": null,
@@ -963,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:07:21.571Z",
+    "last_updated": "2026-08-28T16:31:52.224Z",
     "original_repository_info": {
       "archived": false,
       "id": 1078079172,
@@ -971,7 +1030,7 @@
       "last_commit": "2026-08-10T21:45:44Z",
       "owner": "ComposioHQ",
       "repo": "awesome-claude-skills",
-      "stars": 73478
+      "stars": 73799
     },
     "original_repository_sha": "be2a406907dbc61b73e6827ded415c96139d13a2",
     "enhanced_repository": "enhansome/enhansome-claude-skills",
