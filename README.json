@@ -12,12 +12,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172236
+                "stars": 172313,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -28,12 +35,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172236
+                "stars": 172313,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -44,12 +58,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172236
+                "stars": 172313,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -60,12 +81,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172236
+                "stars": 172313,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -76,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Claude Skill for converting markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to kindle",
+                "homepage": null,
                 "id": 1078272502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-18T00:40:32Z",
+                "open_issues": 2,
                 "owner": "smerchek",
                 "repo": "claude-epub-skill",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -92,12 +125,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Master skill pack for legal teams using Claude. References, starter skills, templates, and the source webinar dataset. Built from Anthropic's Claude for Legal Teams webinar + HAQQ deployment experience. MIT.",
+                "homepage": null,
                 "id": 1222419827,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-18T08:07:35Z",
+                "open_issues": 1,
                 "owner": "sboghossian",
                 "repo": "master-claude-for-legal",
-                "stars": 59
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -115,12 +153,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An agentic skills framework & software development methodology that works.",
+                "homepage": null,
                 "id": 1073224795,
                 "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:21:18Z",
+                "open_issues": 332,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278957
+                "stars": 279099,
+                "topics": [
+                  "ai",
+                  "brainstorming",
+                  "coding",
+                  "obra",
+                  "sdlc",
+                  "skills",
+                  "subagent-driven-development",
+                  "superpowers"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -131,12 +183,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An agentic skills framework & software development methodology that works.",
+                "homepage": null,
                 "id": 1073224795,
                 "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:21:18Z",
+                "open_issues": 332,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278957
+                "stars": 279099,
+                "topics": [
+                  "ai",
+                  "brainstorming",
+                  "coding",
+                  "obra",
+                  "sdlc",
+                  "skills",
+                  "subagent-driven-development",
+                  "superpowers"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -147,12 +213,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An agentic skills framework & software development methodology that works.",
+                "homepage": null,
                 "id": 1073224795,
                 "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:21:18Z",
+                "open_issues": 332,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278957
+                "stars": 279099,
+                "topics": [
+                  "ai",
+                  "brainstorming",
+                  "coding",
+                  "obra",
+                  "sdlc",
+                  "skills",
+                  "subagent-driven-development",
+                  "superpowers"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -163,12 +243,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172236
+                "stars": 172313,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -179,12 +266,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+                "homepage": "https://skillseekersweb.com/",
                 "id": 1078319457,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T06:03:49Z",
+                "open_issues": 52,
                 "owner": "yusufkaraaslan",
                 "repo": "Skill_Seekers",
-                "stars": 14846
+                "stars": 14851,
+                "topics": [
+                  "ai-tools",
+                  "ast-parser",
+                  "automation",
+                  "claude-ai",
+                  "claude-skills",
+                  "code-analysis",
+                  "conflict-detection",
+                  "documentation",
+                  "documentation-generator",
+                  "github",
+                  "github-scraper",
+                  "mcp",
+                  "mcp-server",
+                  "multi-source",
+                  "ocr",
+                  "pdf",
+                  "python",
+                  "web-scraping"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -195,12 +306,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+                "homepage": null,
                 "id": 1105657641,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T17:10:32Z",
+                "open_issues": 4,
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 9962
+                "stars": 9963,
+                "topics": [
+                  "agentic",
+                  "agentic-ai",
+                  "agentic-coding",
+                  "agentic-workflow",
+                  "ai",
+                  "claude",
+                  "claude-ai",
+                  "claude-code",
+                  "cli",
+                  "developer-tools",
+                  "productivity",
+                  "tips-and-tricks"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -211,12 +340,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.",
+                "homepage": "https://leanctx.com",
                 "id": 1189918673,
                 "language": "Rust",
-                "last_commit": "2026-08-26T12:25:47Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T17:05:00Z",
+                "open_issues": 26,
                 "owner": "yvgude",
                 "repo": "lean-ctx",
-                "stars": 3667
+                "stars": 3672,
+                "topics": [
+                  "agentic-coding",
+                  "ai",
+                  "ai-agents",
+                  "ai-coding",
+                  "claude-code",
+                  "context-engineering",
+                  "context-intelligence",
+                  "context-layer",
+                  "copilot",
+                  "cursor",
+                  "developer-tools",
+                  "gemini-cli",
+                  "lean-context",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "reduce-token-costs",
+                  "rust",
+                  "token-optimization"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -227,12 +381,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General-purpose Playwright automation for coding agents",
+                "homepage": null,
                 "id": 1079469057,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T13:51:33Z",
+                "open_issues": 6,
                 "owner": "lackeyjb",
                 "repo": "playwright-skill",
-                "stars": 3072
+                "stars": 3075,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "automations",
+                  "coding-agents",
+                  "developer-tool",
+                  "e2e-testing-tools",
+                  "playwright-automation",
+                  "playwright-tests",
+                  "web-automation",
+                  "web-testing-automation"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -243,12 +413,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.",
+                "homepage": "https://neolab.gitbook.io/cek",
                 "id": 1096085345,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T21:08:01Z",
+                "open_issues": 6,
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1457
+                "stars": 1471,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "claude",
+                  "cline",
+                  "coderabbit",
+                  "cursor",
+                  "llm",
+                  "marketplace",
+                  "opencode",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -259,12 +445,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.",
+                "homepage": "https://neolab.gitbook.io/cek",
                 "id": 1096085345,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T21:08:01Z",
+                "open_issues": 6,
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1457
+                "stars": 1471,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "claude",
+                  "cline",
+                  "coderabbit",
+                  "cursor",
+                  "llm",
+                  "marketplace",
+                  "opencode",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -275,12 +477,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.",
+                "homepage": "https://neolab.gitbook.io/cek",
                 "id": 1096085345,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T21:08:01Z",
+                "open_issues": 6,
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1457
+                "stars": 1471,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "claude",
+                  "cline",
+                  "coderabbit",
+                  "cursor",
+                  "llm",
+                  "marketplace",
+                  "opencode",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -291,12 +509,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps, and to proxy xcodebuild to save token and context wastage.",
+                "homepage": "https://www.conor.fyi",
                 "id": 1078249898,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-18T15:29:20Z",
+                "open_issues": 20,
                 "owner": "conorluddy",
                 "repo": "ios-simulator-skill",
-                "stars": 1233
+                "stars": 1233,
+                "topics": [
+                  "agent",
+                  "agentic-ai",
+                  "ai-agents",
+                  "claude",
+                  "claude-ai",
+                  "claude-code",
+                  "claude-skills",
+                  "claudecode",
+                  "claudeskills",
+                  "dx",
+                  "ios",
+                  "iossimulator",
+                  "mcp",
+                  "mcp-tools",
+                  "python",
+                  "simulator",
+                  "skills",
+                  "testing",
+                  "tooling",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -307,12 +551,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace",
+                "homepage": "https://deepwiki.com/sanjay3290/ai-skills",
                 "id": 1121296225,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T21:13:00Z",
+                "open_issues": 3,
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 405
+                "stars": 407,
+                "topics": [
+                  "agent-skills",
+                  "ai-skills",
+                  "atlassian",
+                  "azure-devops",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "deep-research",
+                  "elevenlabs",
+                  "gemini-cli",
+                  "google-workspace",
+                  "imagen",
+                  "mcp",
+                  "mysql",
+                  "notebooklm",
+                  "postgresql",
+                  "telegram",
+                  "text-to-speech",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -323,12 +593,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code plugins and agent skills for AWS development — IaC(CDK/SST), serverless, cost ops, and Bedrock AgentCore",
+                "homepage": "https://skills.sh/zxkane/aws-skills",
                 "id": 1080226559,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-15T14:37:32Z",
+                "open_issues": 0,
                 "owner": "zxkane",
                 "repo": "aws-skills",
-                "stars": 354
+                "stars": 355,
+                "topics": [
+                  "agent-skills",
+                  "anthropic",
+                  "aws",
+                  "aws-agentcore",
+                  "aws-cdk",
+                  "aws-cost-optimization",
+                  "aws-serverless-architecture",
+                  "bedrock-agentcore",
+                  "claude-code",
+                  "claude-plugin",
+                  "claude-skills",
+                  "event-driven-architecture",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -339,12 +628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Claude skill for d3.js.",
+                "homepage": null,
                 "id": 1078325237,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-10-18T02:29:55Z",
+                "open_issues": 4,
                 "owner": "chrisvoncsefalvay",
                 "repo": "claude-d3js-skill",
-                "stars": 224
+                "stars": 225,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -355,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a \"skill\" for claude to use FFUF.",
+                "homepage": null,
                 "id": 1077818586,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-16T19:39:14Z",
+                "open_issues": 1,
                 "owner": "jthack",
                 "repo": "ffuf_claude_skill",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -371,12 +670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically updates terminal window titles based on Claude Code tasks—stop guessing which terminal is which.",
+                "homepage": null,
                 "id": 1091565595,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-01-31T13:03:48Z",
+                "open_issues": 5,
                 "owner": "bluzername",
                 "repo": "claude-code-terminal-title",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -387,12 +691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A claude skill that generate test cases using N-wise test cases using the pypict library",
+                "homepage": null,
                 "id": 1079412248,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-22T20:31:42Z",
+                "open_issues": 0,
                 "owner": "omkamal",
                 "repo": "pypict-claude-skill",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -403,12 +712,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Don't buy software. Get the work done. GreatCTO ships AI autopilots that run a whole business function — medical coding, legal docs, procurement, accounting, IT, tax — from intake to outcome. A qualified human signs only the judgment calls. Live connectors, built-in compliance.",
+                "homepage": "https://greatcto.systems",
                 "id": 1201775350,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T14:35:10Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:44:30Z",
+                "open_issues": 4,
                 "owner": "avelikiy",
                 "repo": "great_cto",
-                "stars": 85
+                "stars": 86,
+                "topics": [
+                  "agentic-coding",
+                  "claude-code-plugin",
+                  "claude-code-skills",
+                  "claude-code-subagents",
+                  "code-review",
+                  "cto",
+                  "multi-agent",
+                  "sdlc"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -419,12 +742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent-native way to access any website. Bridging agent CLI and web GUI through API.",
+                "homepage": null,
                 "id": 1200587971,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-27T09:03:44Z",
+                "open_issues": 0,
                 "owner": "imoonkey",
                 "repo": "openweb",
-                "stars": 54
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -435,12 +763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A thoughtful \"Root of all evil\" for engineers and explorers of the software arts. Take any problem a step past the pragmatic answer. A Claude Code skill that surfaces advanced data structures, distributed-systems algorithms, niche frameworks, and frontier tooling — each scored on a calibrated complexity scale.",
+                "homepage": null,
                 "id": 1244383257,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-27T07:54:48Z",
+                "open_issues": 0,
                 "owner": "santiago-vargas-de-kruijf",
                 "repo": "claude-overkill",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -451,12 +784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code skill for analyzing Move packages against the official Move Book Code Quality Checklist",
+                "homepage": null,
                 "id": 1080758233,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-10-21T21:19:41Z",
+                "open_issues": 0,
                 "owner": "1NickPappas",
                 "repo": "move-code-quality-skill",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -467,12 +805,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code skill: zero-dependency full-page screenshot via Chrome DevTools Protocol",
+                "homepage": null,
                 "id": 1223280581,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-04-28T07:10:19Z",
+                "open_issues": 0,
                 "owner": "LewisLiu007",
                 "repo": "full-page-screenshot",
-                "stars": 16
+                "stars": 18,
+                "topics": [
+                  "cdp",
+                  "chrome-devtools",
+                  "claude-code",
+                  "claude-code-skill",
+                  "full-page-screenshot",
+                  "screenshot",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -483,12 +834,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opinionated Claude Code skill for adding an SEO-first, translate-ready blog to a Next.js + Sanity site. 40-question intake, one-page plan, batteries-included spec, AI hero images via Nano Banana Pro.",
+                "homepage": "https://attractgroup.com",
                 "id": 1245914222,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-21T23:15:37Z",
+                "open_issues": 0,
                 "owner": "BuildShipGrowRepeat",
                 "repo": "nextjs-sanity-blog-skill",
-                "stars": 6
+                "stars": 7,
+                "topics": [
+                  "ai-blog",
+                  "blog",
+                  "blogposting",
+                  "claude-code",
+                  "claude-plugin",
+                  "claude-skills",
+                  "gemini-3-pro",
+                  "hreflang",
+                  "i18n",
+                  "nano-banana",
+                  "next-intl",
+                  "next-js",
+                  "nextjs",
+                  "sanity",
+                  "sanity-cms",
+                  "sanity-studio",
+                  "seo",
+                  "seo-checklist"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -506,12 +881,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An agentic skills framework & software development methodology that works.",
+                "homepage": null,
                 "id": 1073224795,
                 "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:21:18Z",
+                "open_issues": 332,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278957
+                "stars": 279099,
+                "topics": [
+                  "ai",
+                  "brainstorming",
+                  "coding",
+                  "obra",
+                  "sdlc",
+                  "skills",
+                  "subagent-driven-development",
+                  "superpowers"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -522,12 +911,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.",
+                "homepage": "https://youtu.be/kHg1TfSNSFI",
                 "id": 1077816712,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-16T20:20:06Z",
+                "open_issues": 3,
                 "owner": "coffeefuelbump",
                 "repo": "csv-data-summarizer-claude-skill",
-                "stars": 455
+                "stars": 455,
+                "topics": [
+                  "claude-skills"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -538,12 +934,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace",
+                "homepage": "https://deepwiki.com/sanjay3290/ai-skills",
                 "id": 1121296225,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T21:13:00Z",
+                "open_issues": 3,
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 405
+                "stars": 407,
+                "topics": [
+                  "agent-skills",
+                  "ai-skills",
+                  "atlassian",
+                  "azure-devops",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "deep-research",
+                  "elevenlabs",
+                  "gemini-cli",
+                  "google-workspace",
+                  "imagen",
+                  "mcp",
+                  "mysql",
+                  "notebooklm",
+                  "postgresql",
+                  "telegram",
+                  "text-to-speech",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -554,12 +976,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace",
+                "homepage": "https://deepwiki.com/sanjay3290/ai-skills",
                 "id": 1121296225,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T21:13:00Z",
+                "open_issues": 3,
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 405
+                "stars": 407,
+                "topics": [
+                  "agent-skills",
+                  "ai-skills",
+                  "atlassian",
+                  "azure-devops",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "deep-research",
+                  "elevenlabs",
+                  "gemini-cli",
+                  "google-workspace",
+                  "imagen",
+                  "mcp",
+                  "mysql",
+                  "notebooklm",
+                  "postgresql",
+                  "telegram",
+                  "text-to-speech",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -570,12 +1018,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code skill for recursive research up to PhD level across any domain. Source tiering, WDM + Munger inversion for autonomous decisions, and disk checkpointing to survive context compaction.",
+                "homepage": null,
                 "id": 1218444058,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-22T23:57:39Z",
+                "open_issues": 0,
                 "owner": "Anjos2",
                 "repo": "recursive-research",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "ai-agent",
+                  "claude-code",
+                  "claude-code-skill",
+                  "knowledge-management",
+                  "mental-models",
+                  "recursive-research",
+                  "research-tool",
+                  "weighted-decision-matrix"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -593,12 +1055,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.",
+                "homepage": "https://rampstack.co",
                 "id": 1224033309,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:42:52Z",
+                "open_issues": 2,
                 "owner": "rampstackco",
                 "repo": "claude-skills",
-                "stars": 779
+                "stars": 781,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "anthropic",
+                  "claude",
+                  "claude-ai",
+                  "claude-code",
+                  "claude-skills",
+                  "mcp",
+                  "product-management",
+                  "rampstack",
+                  "seo",
+                  "skills-collection",
+                  "web-design",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -616,12 +1098,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An agentic skills framework & software development methodology that works.",
+                "homepage": null,
                 "id": 1073224795,
                 "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:21:18Z",
+                "open_issues": 332,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278957
+                "stars": 279099,
+                "topics": [
+                  "ai",
+                  "brainstorming",
+                  "coding",
+                  "obra",
+                  "sdlc",
+                  "skills",
+                  "subagent-driven-development",
+                  "superpowers"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -632,12 +1128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base.",
+                "homepage": null,
                 "id": 1079107863,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-21T17:42:12Z",
+                "open_issues": 38,
                 "owner": "PleasePrompto",
                 "repo": "notebooklm-skill",
-                "stars": 7715
+                "stars": 7717,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -648,12 +1149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code skills to download sources (articles, PDFs, YouTube video transcripts)",
+                "homepage": null,
                 "id": 1077940951,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-11T22:36:51Z",
+                "open_issues": 3,
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 528
+                "stars": 529,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -664,12 +1170,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Claude Skill to assist with family history and genealogy research planning.",
+                "homepage": null,
                 "id": 1078351399,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-18T23:29:55Z",
+                "open_issues": 1,
                 "owner": "emaynard",
                 "repo": "claude-family-history-research-skill",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "claude",
+                  "family-history",
+                  "genealogy"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -687,12 +1202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code skills to download sources (articles, PDFs, YouTube video transcripts)",
+                "homepage": null,
                 "id": 1077940951,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-11T22:36:51Z",
+                "open_issues": 3,
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 528
+                "stars": 529,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -703,12 +1223,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace",
+                "homepage": "https://deepwiki.com/sanjay3290/ai-skills",
                 "id": 1121296225,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T21:13:00Z",
+                "open_issues": 3,
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 405
+                "stars": 407,
+                "topics": [
+                  "agent-skills",
+                  "ai-skills",
+                  "atlassian",
+                  "azure-devops",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "deep-research",
+                  "elevenlabs",
+                  "gemini-cli",
+                  "google-workspace",
+                  "imagen",
+                  "mcp",
+                  "mysql",
+                  "notebooklm",
+                  "postgresql",
+                  "telegram",
+                  "text-to-speech",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -719,12 +1265,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SwiftUI Front-End Design Skills — Six Ironclad Rules Against AI Sloppiness, Design Direction Consulting, Brand Asset Guidelines, and Five-Dimensional Review. Supports all AI agent platforms, including Claude Code, Cursor, Codex, and OpenCode.",
+                "homepage": "https://skills.sh/wholiver/swiftui-design-skill/swiftui-design-skill",
                 "id": 1225207930,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-01T05:20:08Z",
+                "open_issues": 0,
                 "owner": "Wholiver",
                 "repo": "swiftui-design-skill",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "accessibility",
+                  "agent-skill",
+                  "ai-slop",
+                  "claude-code",
+                  "codex",
+                  "color-theory",
+                  "cursor",
+                  "design",
+                  "design-system",
+                  "ios",
+                  "liquid-glass",
+                  "macos",
+                  "opencode",
+                  "prototype",
+                  "swift",
+                  "swiftui",
+                  "swiftui-views",
+                  "typography",
+                  "ui-design",
+                  "visual-design"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -735,12 +1307,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude skill that analyzes images, websites, and Figma files and generates a structured design.md with token system, component inventory, and reconstruction notes.",
+                "homepage": null,
                 "id": 1242899551,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-11T13:43:26Z",
+                "open_issues": 0,
                 "owner": "uxKero",
                 "repo": "anydesign",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "ai-agents",
+                  "anthropic",
+                  "claude-code",
+                  "claude-skill",
+                  "design-system",
+                  "design-tokens",
+                  "dtcg",
+                  "figma",
+                  "playwright"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -751,12 +1338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude skill for production media pipelines — 85+ AI APIs, 60+ URL transformations, CDN, DAM. Drop product photos in chat, get e-commerce-ready output.",
+                "homepage": null,
                 "id": 1225359679,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-06T04:57:37Z",
+                "open_issues": 0,
                 "owner": "anandpareek-hub",
                 "repo": "pixelbin-claude-skill",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -774,12 +1366,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.",
+                "homepage": "https://neolab.gitbook.io/cek",
                 "id": 1096085345,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T21:08:01Z",
+                "open_issues": 6,
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1457
+                "stars": 1471,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "claude",
+                  "cline",
+                  "coderabbit",
+                  "cursor",
+                  "llm",
+                  "marketplace",
+                  "opencode",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -790,12 +1398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code skills to download sources (articles, PDFs, YouTube video transcripts)",
+                "homepage": null,
                 "id": 1077940951,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-11T22:36:51Z",
+                "open_issues": 3,
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 528
+                "stars": 529,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -806,12 +1419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code skills to download sources (articles, PDFs, YouTube video transcripts)",
+                "homepage": null,
                 "id": 1077940951,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-11T22:36:51Z",
+                "open_issues": 3,
                 "owner": "michalparkola",
                 "repo": "tapestry-skills",
-                "stars": 528
+                "stars": 529,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -822,12 +1440,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.",
+                "homepage": "https://n8n-skills.frankchen.tw",
                 "id": 1087105281,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T07:33:46Z",
+                "open_issues": 0,
                 "owner": "haunchen",
                 "repo": "n8n-skills",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "automation",
+                  "claude",
+                  "n8n",
+                  "n8n-skills",
+                  "n8n-workflow",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -838,12 +1468,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code skills for people who ship alone. 7 bilingual (EN+中文) skills for solo founders and indie devs: launch tweets, customer emails, decision frameworks, postmortems, and more.",
+                "homepage": null,
                 "id": 1225371220,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-01T08:49:39Z",
+                "open_issues": 0,
                 "owner": "rockscy",
                 "repo": "solo-skills",
-                "stars": 7
+                "stars": 8,
+                "topics": [
+                  "ai-agents",
+                  "awesome-list",
+                  "bilingual",
+                  "claude-code",
+                  "claude-skills",
+                  "developer-tools",
+                  "indie-hacker",
+                  "llm",
+                  "productivity",
+                  "solo-founder"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -861,12 +1507,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+                "homepage": null,
                 "id": 1078227922,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-25T06:09:24Z",
+                "open_issues": 6,
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 667
+                "stars": 667,
+                "topics": [
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "automation",
+                  "claude-code",
+                  "claude-skills",
+                  "developer-tools",
+                  "plugins",
+                  "productivity"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -877,12 +1538,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+                "homepage": null,
                 "id": 1078227922,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-25T06:09:24Z",
+                "open_issues": 6,
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 667
+                "stars": 667,
+                "topics": [
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "automation",
+                  "claude-code",
+                  "claude-skills",
+                  "developer-tools",
+                  "plugins",
+                  "productivity"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -893,12 +1569,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+                "homepage": null,
                 "id": 1078227922,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-25T06:09:24Z",
+                "open_issues": 6,
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 667
+                "stars": 667,
+                "topics": [
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "automation",
+                  "claude-code",
+                  "claude-skills",
+                  "developer-tools",
+                  "plugins",
+                  "productivity"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -909,12 +1600,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace",
+                "homepage": "https://deepwiki.com/sanjay3290/ai-skills",
                 "id": 1121296225,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T21:13:00Z",
+                "open_issues": 3,
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 405
+                "stars": 407,
+                "topics": [
+                  "agent-skills",
+                  "ai-skills",
+                  "atlassian",
+                  "azure-devops",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "deep-research",
+                  "elevenlabs",
+                  "gemini-cli",
+                  "google-workspace",
+                  "imagen",
+                  "mcp",
+                  "mysql",
+                  "notebooklm",
+                  "postgresql",
+                  "telegram",
+                  "text-to-speech",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -925,12 +1642,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace",
+                "homepage": "https://deepwiki.com/sanjay3290/ai-skills",
                 "id": 1121296225,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T21:13:00Z",
+                "open_issues": 3,
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 405
+                "stars": 407,
+                "topics": [
+                  "agent-skills",
+                  "ai-skills",
+                  "atlassian",
+                  "azure-devops",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "deep-research",
+                  "elevenlabs",
+                  "gemini-cli",
+                  "google-workspace",
+                  "imagen",
+                  "mcp",
+                  "mysql",
+                  "notebooklm",
+                  "postgresql",
+                  "telegram",
+                  "text-to-speech",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -948,12 +1691,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+                "homepage": null,
                 "id": 1078227922,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-25T06:09:24Z",
+                "open_issues": 6,
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 667
+                "stars": 667,
+                "topics": [
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "automation",
+                  "claude-code",
+                  "claude-skills",
+                  "developer-tools",
+                  "plugins",
+                  "productivity"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -964,12 +1722,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+                "homepage": null,
                 "id": 1078227922,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-25T06:09:24Z",
+                "open_issues": 6,
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 667
+                "stars": 667,
+                "topics": [
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "automation",
+                  "claude-code",
+                  "claude-skills",
+                  "developer-tools",
+                  "plugins",
+                  "productivity"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -980,12 +1753,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+                "homepage": null,
                 "id": 1078227922,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-25T06:09:24Z",
+                "open_issues": 6,
                 "owner": "mhattingpete",
                 "repo": "claude-skills-marketplace",
-                "stars": 667
+                "stars": 667,
+                "topics": [
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "automation",
+                  "claude-code",
+                  "claude-skills",
+                  "developer-tools",
+                  "plugins",
+                  "productivity"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -1003,12 +1791,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Skills for your Personal AI Infrastructure and mobile apps like Claude Mobile useful for parents of children of autism spectrum disorders or anyone else that has demand avoidance impulses.",
+                "homepage": null,
                 "id": 1118370353,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-12-17T17:36:35Z",
+                "open_issues": 0,
                 "owner": "emory",
                 "repo": "ASD-AuDHD-PAI-Skills",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "autism-spectrum-disorder",
+                  "claude-code",
+                  "claude-desktop",
+                  "claude-mobile",
+                  "claude-skills",
+                  "pai"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             }
@@ -1022,15 +1822,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:31:52.224Z",
+    "last_updated": "2026-08-29T04:10:08.357Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "homepage": null,
       "id": 1078079172,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-10T21:45:44Z",
+      "open_issues": 1346,
       "owner": "ComposioHQ",
       "repo": "awesome-claude-skills",
-      "stars": 73799
+      "stars": 73825,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "composio",
+        "cursor",
+        "developer-tools",
+        "gemini-cli",
+        "mcp",
+        "openai-codex",
+        "rube",
+        "saas",
+        "skill",
+        "workflow-automation"
+      ]
     },
     "original_repository_sha": "be2a406907dbc61b73e6827ded415c96139d13a2",
     "enhanced_repository": "enhansome/enhansome-claude-skills",
