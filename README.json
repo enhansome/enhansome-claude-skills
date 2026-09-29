@@ -17,11 +17,11 @@
                 "id": 1061953414,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-24T16:20:39Z",
-                "open_issues": 1380,
+                "last_commit": "2026-09-29T02:20:07Z",
+                "open_issues": 1379,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 178733,
+                "stars": 178922,
                 "topics": [
                   "agent-skills"
                 ]
@@ -40,11 +40,11 @@
                 "id": 1061953414,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-24T16:20:39Z",
-                "open_issues": 1380,
+                "last_commit": "2026-09-29T02:20:07Z",
+                "open_issues": 1379,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 178733,
+                "stars": 178922,
                 "topics": [
                   "agent-skills"
                 ]
@@ -63,11 +63,11 @@
                 "id": 1061953414,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-24T16:20:39Z",
-                "open_issues": 1380,
+                "last_commit": "2026-09-29T02:20:07Z",
+                "open_issues": 1379,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 178733,
+                "stars": 178922,
                 "topics": [
                   "agent-skills"
                 ]
@@ -86,11 +86,11 @@
                 "id": 1061953414,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-24T16:20:39Z",
-                "open_issues": 1380,
+                "last_commit": "2026-09-29T02:20:07Z",
+                "open_issues": 1379,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 178733,
+                "stars": 178922,
                 "topics": [
                   "agent-skills"
                 ]
@@ -113,7 +113,7 @@
                 "open_issues": 2,
                 "owner": "smerchek",
                 "repo": "claude-epub-skill",
-                "stars": 163,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
@@ -159,10 +159,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-27T02:37:47Z",
-                "open_issues": 270,
+                "open_issues": 278,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 292328,
+                "stars": 292668,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -189,10 +189,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-27T02:37:47Z",
-                "open_issues": 270,
+                "open_issues": 278,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 292328,
+                "stars": 292668,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -219,10 +219,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-27T02:37:47Z",
-                "open_issues": 270,
+                "open_issues": 278,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 292328,
+                "stars": 292668,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -248,11 +248,11 @@
                 "id": 1061953414,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-24T16:20:39Z",
-                "open_issues": 1380,
+                "last_commit": "2026-09-29T02:20:07Z",
+                "open_issues": 1379,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 178733,
+                "stars": 178922,
                 "topics": [
                   "agent-skills"
                 ]
@@ -275,7 +275,7 @@
                 "open_issues": 47,
                 "owner": "yusufkaraaslan",
                 "repo": "Skill_Seekers",
-                "stars": 15042,
+                "stars": 15046,
                 "topics": [
                   "ai-tools",
                   "ast-parser",
@@ -315,7 +315,7 @@
                 "open_issues": 4,
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 10153,
+                "stars": 10161,
                 "topics": [
                   "agentic",
                   "agentic-ai",
@@ -345,11 +345,11 @@
                 "id": 1189918673,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T10:24:45Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-29T08:55:45Z",
+                "open_issues": 24,
                 "owner": "yvgude",
                 "repo": "lean-ctx",
-                "stars": 3841,
+                "stars": 3839,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -390,7 +390,7 @@
                 "open_issues": 8,
                 "owner": "lackeyjb",
                 "repo": "playwright-skill",
-                "stars": 3151,
+                "stars": 3154,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -419,10 +419,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T21:08:01Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1732,
+                "stars": 1735,
                 "topics": [
                   "agent",
                   "ai",
@@ -451,10 +451,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T21:08:01Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1732,
+                "stars": 1735,
                 "topics": [
                   "agent",
                   "ai",
@@ -483,10 +483,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T21:08:01Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1732,
+                "stars": 1735,
                 "topics": [
                   "agent",
                   "ai",
@@ -676,11 +676,44 @@
                 "language": "Shell",
                 "license": null,
                 "last_commit": "2026-09-17T05:11:31Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "bluzername",
                 "repo": "claude-code-terminal-title",
                 "stars": 141,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "great_cto",
+              "description": "Claude Code plugin: 7 specialised subagents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) orchestrating a full SDLC pipeline — architecture, TDD, 12-angle code review, QA, security audit, deploy. 11 project archetypes auto-detected, 13 compliance frameworks (GDPR/PCI-DSS/HIPAA/SOC2/ISO 27001), self-improving knowledge layer that learns from every incident. By @avelikiy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "You already have the agent. This is everything around it. great_cto runs Claude Code as a pipeline of 70 specialist agents — an independent model checks each stage before the next builds on it, spending caps refuse rather than warn, and three decisions stay yours: what gets built, how, and whether it ships.",
+                "homepage": "https://greatcto.systems",
+                "id": 1201775350,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-09-28T06:58:53Z",
+                "open_issues": 19,
+                "owner": "avelikiy",
+                "repo": "great_cto",
+                "stars": 99,
+                "topics": [
+                  "agentic-coding",
+                  "ai-agents",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "claude-code-skills",
+                  "claude-code-subagents",
+                  "code-review",
+                  "cto",
+                  "developer-tools",
+                  "multi-agent",
+                  "sdlc"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -702,39 +735,6 @@
                 "repo": "pypict-claude-skill",
                 "stars": 99,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T16:31:52.224Z"
-            },
-            {
-              "node_type": "item",
-              "title": "great_cto",
-              "description": "Claude Code plugin: 7 specialised subagents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) orchestrating a full SDLC pipeline — architecture, TDD, 12-angle code review, QA, security audit, deploy. 11 project archetypes auto-detected, 13 compliance frameworks (GDPR/PCI-DSS/HIPAA/SOC2/ISO 27001), self-improving knowledge layer that learns from every incident. By @avelikiy",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "You already have the agent. This is everything around it. great_cto runs Claude Code as a pipeline of 70 specialist agents — an independent model checks each stage before the next builds on it, spending caps refuse rather than warn, and three decisions stay yours: what gets built, how, and whether it ships.",
-                "homepage": "https://greatcto.systems",
-                "id": 1201775350,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-09-28T06:58:53Z",
-                "open_issues": 19,
-                "owner": "avelikiy",
-                "repo": "great_cto",
-                "stars": 97,
-                "topics": [
-                  "agentic-coding",
-                  "ai-agents",
-                  "claude-code",
-                  "claude-code-plugin",
-                  "claude-code-skills",
-                  "claude-code-subagents",
-                  "code-review",
-                  "cto",
-                  "developer-tools",
-                  "multi-agent",
-                  "sdlc"
-                ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
             },
@@ -890,10 +890,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-27T02:37:47Z",
-                "open_issues": 270,
+                "open_issues": 278,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 292328,
+                "stars": 292668,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -1067,7 +1067,7 @@
                 "open_issues": 1,
                 "owner": "rampstackco",
                 "repo": "claude-skills",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1107,10 +1107,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-27T02:37:47Z",
-                "open_issues": 270,
+                "open_issues": 278,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 292328,
+                "stars": 292668,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -1140,7 +1140,7 @@
                 "open_issues": 0,
                 "owner": "PleasePrompto",
                 "repo": "notebooklm-skill",
-                "stars": 7780,
+                "stars": 7781,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
@@ -1263,6 +1263,37 @@
             },
             {
               "node_type": "item",
+              "title": "anydesign",
+              "description": "Analyzes any image, URL, or Figma file and generates a structured with the full design system, component inventory, and reconstruction notes — portable to v0, Lovable, Cursor or any AI builder. By @uxKero",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Claude skill that analyzes images, websites, and Figma files and generates a structured design.md with token system, component inventory, and reconstruction notes.",
+                "homepage": null,
+                "id": 1242899551,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-15T00:38:13Z",
+                "open_issues": 0,
+                "owner": "uxKero",
+                "repo": "anydesign",
+                "stars": 207,
+                "topics": [
+                  "ai-agents",
+                  "anthropic",
+                  "claude-code",
+                  "claude-skill",
+                  "design-system",
+                  "design-tokens",
+                  "dtcg",
+                  "figma",
+                  "playwright"
+                ]
+              },
+              "first_seen": "2026-08-28T16:31:52.224Z"
+            },
+            {
+              "node_type": "item",
               "title": "swiftui-design-skill",
               "description": "SwiftUI 前端设计 skill — 反 AI Slop 六条铁律、设计方向顾问、品牌资产协议、五维评审。支持 Claude Code / Cursor / Codex / OpenCode 等全部 AI agent 平台。 By @wholiver",
               "children": [],
@@ -1277,7 +1308,7 @@
                 "open_issues": 0,
                 "owner": "Wholiver",
                 "repo": "swiftui-design-skill",
-                "stars": 204,
+                "stars": 206,
                 "topics": [
                   "accessibility",
                   "agent-skill",
@@ -1299,37 +1330,6 @@
                   "typography",
                   "ui-design",
                   "visual-design"
-                ]
-              },
-              "first_seen": "2026-08-28T16:31:52.224Z"
-            },
-            {
-              "node_type": "item",
-              "title": "anydesign",
-              "description": "Analyzes any image, URL, or Figma file and generates a structured with the full design system, component inventory, and reconstruction notes — portable to v0, Lovable, Cursor or any AI builder. By @uxKero",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Claude skill that analyzes images, websites, and Figma files and generates a structured design.md with token system, component inventory, and reconstruction notes.",
-                "homepage": null,
-                "id": 1242899551,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-15T00:38:13Z",
-                "open_issues": 0,
-                "owner": "uxKero",
-                "repo": "anydesign",
-                "stars": 201,
-                "topics": [
-                  "ai-agents",
-                  "anthropic",
-                  "claude-code",
-                  "claude-skill",
-                  "design-system",
-                  "design-tokens",
-                  "dtcg",
-                  "figma",
-                  "playwright"
                 ]
               },
               "first_seen": "2026-08-28T16:31:52.224Z"
@@ -1375,10 +1375,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T21:08:01Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1732,
+                "stars": 1735,
                 "topics": [
                   "agent",
                   "ai",
@@ -1825,7 +1825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:47:43.150Z",
+    "last_updated": "2026-09-29T10:36:10.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
@@ -1834,10 +1834,10 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-09-18T07:16:11Z",
-      "open_issues": 1559,
+      "open_issues": 1568,
       "owner": "ComposioHQ",
       "repo": "awesome-claude-skills",
-      "stars": 75771,
+      "stars": 75818,
       "topics": [
         "agent-skills",
         "ai-agents",
