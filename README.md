@@ -99,7 +99,7 @@ If you receive the email, Claude is now connected to 1000+ apps.
 
 ## What Are Claude Skills?
 
-Claude Skills are reusable instruction packages that teach an AI agent how to handle a specific class of tasks. Each skill is a folder containing a `SKILL.md` file with YAML frontmatter (name, description) and Markdown instructions, optionally bundled with scripts, references, and assets. Anthropic introduced the format in October 2025 and released it as an [open standard](https://github.com/anthropics/skills) ⭐ 179,430 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 in December 2025; it's now supported by Claude Code, Claude.ai, the Claude API, OpenAI Codex, Cursor, Gemini CLI, Antigravity, and Windsurf.
+Claude Skills are reusable instruction packages that teach an AI agent how to handle a specific class of tasks. Each skill is a folder containing a `SKILL.md` file with YAML frontmatter (name, description) and Markdown instructions, optionally bundled with scripts, references, and assets. Anthropic introduced the format in October 2025 and released it as an [open standard](https://github.com/anthropics/skills) ⭐ 179,462 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 in December 2025; it's now supported by Claude Code, Claude.ai, the Claude API, OpenAI Codex, Cursor, Gemini CLI, Antigravity, and Windsurf.
 
 Skills load progressively. At session start, the agent sees only each skill's name and description — roughly 100 tokens per skill. The full SKILL.md body (typically under 5,000 tokens) loads only when the agent decides the skill is relevant to the current task. Auxiliary files in `scripts/` and `references/` load on demand. This is what lets a single agent host hundreds of skills without bloating its context window.
 
@@ -109,23 +109,23 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Document Processing
 
-* [docx](https://github.com/anthropics/skills/tree/main/skills/docx) ⭐ 179,430 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Create, edit, analyze Word docs with tracked changes, comments, formatting.
-* [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) ⭐ 179,430 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Extract text, tables, metadata, merge & annotate PDFs.
-* [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) ⭐ 179,430 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Read, generate, and adjust slides, layouts, templates.
-* [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) ⭐ 179,430 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Spreadsheet manipulation: formulas, charts, data transformations.
+* [docx](https://github.com/anthropics/skills/tree/main/skills/docx) ⭐ 179,462 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Create, edit, analyze Word docs with tracked changes, comments, formatting.
+* [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) ⭐ 179,462 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Extract text, tables, metadata, merge & annotate PDFs.
+* [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) ⭐ 179,462 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Read, generate, and adjust slides, layouts, templates.
+* [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) ⭐ 179,462 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Spreadsheet manipulation: formulas, charts, data transformations.
 * [Markdown to EPUB Converter](https://github.com/smerchek/claude-epub-skill) ⭐ 166 | 🐛 2 | 🌐 Python | 📅 2025-10-18 - Converts markdown documents and chat summaries into professional EPUB ebook files. *By [@smerchek](https://github.com/smerchek)*
 * [Master Claude for Legal](https://github.com/sboghossian/master-claude-for-legal) ⭐ 68 | 🐛 1 | 📅 2026-05-18 - Skill pack for legal teams. NDA triage, multi-party version diff, citation verifier, meeting brief, and the Friday-newsletter status synthesis pattern. Includes 10 reference docs (privilege, verification, long documents, practice areas) and 3 firm templates. Built from the public Anthropic Claude for Legal Teams webinar dataset. *By [@sboghossian](https://github.com/sboghossian)*
 
 ### Development & Code Tools
 
-* [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) ⭐ 294,526 | 🐛 297 | 🌐 Shell | 📅 2026-09-27 - Guides completion of development work by presenting clear options and handling chosen workflow.
-* [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) ⭐ 294,526 | 🐛 297 | 🌐 Shell | 📅 2026-09-27 - Use when implementing any feature or bugfix, before writing implementation code.
-* [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) ⭐ 294,526 | 🐛 297 | 🌐 Shell | 📅 2026-09-27 - Creates isolated git worktrees with smart directory selection and safety verification.
-* [artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) ⭐ 179,430 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
-* [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 15,092 | 🐛 47 | 🌐 Python | 📅 2026-09-30 - Automatically converts any documentation website into a Claude AI skill in minutes. *By [@yusufkaraaslan](https://github.com/yusufkaraaslan)*
-* [reddit-fetch](https://github.com/ykdojo/claude-code-tips/tree/main/skills/reddit-fetch) ⭐ 10,182 | 🐛 4 | 🌐 HTML | 📅 2026-09-25 - Fetches Reddit content via Gemini CLI when WebFetch is blocked or returns 403 errors.
-* [lean-ctx](https://github.com/yvgude/lean-ctx) ⭐ 3,857 | 🐛 5 | 🌐 Rust | 📅 2026-10-02 - MCP server and context runtime for AI coding agents: session caching, AST-aware compression, and 90+ shell patterns to reduce token usage. Supports Claude Code, Cursor, Copilot, and other integrations. Install the Claude Code skill with `lean-ctx init --agent claude-code`; docs at [leanctx.com](https://leanctx.com). *By [@yvgude](https://github.com/yvgude)*
-* [Playwright Browser Automation](https://github.com/lackeyjb/playwright-skill) ⭐ 3,166 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-01 - Model-invoked Playwright automation for testing and validating web applications. *By [@lackeyjb](https://github.com/lackeyjb)*
+* [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) ⭐ 294,639 | 🐛 298 | 🌐 Shell | 📅 2026-09-27 - Guides completion of development work by presenting clear options and handling chosen workflow.
+* [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) ⭐ 294,639 | 🐛 298 | 🌐 Shell | 📅 2026-09-27 - Use when implementing any feature or bugfix, before writing implementation code.
+* [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) ⭐ 294,639 | 🐛 298 | 🌐 Shell | 📅 2026-09-27 - Creates isolated git worktrees with smart directory selection and safety verification.
+* [artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) ⭐ 179,462 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
+* [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 15,094 | 🐛 47 | 🌐 Python | 📅 2026-09-30 - Automatically converts any documentation website into a Claude AI skill in minutes. *By [@yusufkaraaslan](https://github.com/yusufkaraaslan)*
+* [reddit-fetch](https://github.com/ykdojo/claude-code-tips/tree/main/skills/reddit-fetch) ⭐ 10,183 | 🐛 4 | 🌐 HTML | 📅 2026-09-25 - Fetches Reddit content via Gemini CLI when WebFetch is blocked or returns 403 errors.
+* [lean-ctx](https://github.com/yvgude/lean-ctx) ⭐ 3,860 | 🐛 7 | 🌐 Rust | 📅 2026-10-03 - MCP server and context runtime for AI coding agents: session caching, AST-aware compression, and 90+ shell patterns to reduce token usage. Supports Claude Code, Cursor, Copilot, and other integrations. Install the Claude Code skill with `lean-ctx init --agent claude-code`; docs at [leanctx.com](https://leanctx.com). *By [@yvgude](https://github.com/yvgude)*
+* [Playwright Browser Automation](https://github.com/lackeyjb/playwright-skill) ⭐ 3,167 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-01 - Model-invoked Playwright automation for testing and validating web applications. *By [@lackeyjb](https://github.com/lackeyjb)*
 * [prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering) ⭐ 1,741 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-26 - Teaches well-known prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
 * [software-architecture](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/ddd/skills/software-architecture) ⭐ 1,741 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-26 - Implements design patterns including Clean Architecture, SOLID principles, and comprehensive software design best practices.
 * [subagent-driven-development](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sadd/skills/subagent-driven-development) ⭐ 1,741 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-26 - Dispatches independent subagents for individual tasks with code review checkpoints between iterations for rapid, controlled development.
@@ -138,7 +138,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 * [great\_cto](https://github.com/avelikiy/great_cto) ⭐ 102 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-03 - Claude Code plugin: 7 specialised subagents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) orchestrating a full SDLC pipeline — architecture, TDD, 12-angle code review, QA, security audit, deploy. 11 project archetypes auto-detected, 13 compliance frameworks (GDPR/PCI-DSS/HIPAA/SOC2/ISO 27001), self-improving knowledge layer that learns from every incident. *By [@avelikiy](https://github.com/avelikiy)*
 * [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) ⭐ 99 | 🐛 0 | 🌐 Python | 📅 2026-03-22 - Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.
 * [OpenWeb](https://github.com/openweb-org/openweb) ⭐ 67 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-27 - Agent-native way to access any website. Calls the same APIs the website calls (JSON in, JSON out) with auth (cookies, JWT, CSRF, signing) auto-resolved per request. 90+ sites built in. *By [@openweb-org](https://github.com/openweb-org)*
-* [overkill](https://github.com/santiago-vargas-de-kruijf/claude-overkill) ⭐ 31 | 🐛 0 | 📅 2026-05-27 - Surfaces advanced, maximalist alternatives to whatever solution is being discussed — advanced data structures, distributed-systems algorithms, niche frameworks, design patterns, and frontier tooling — each ranked on a calibrated complexity scale with learning links and the scenario in which the path pays off. *By [@santiago-vargas-de-kruijf](https://github.com/santiago-vargas-de-kruijf)*
+* [overkill](https://github.com/santiago-vargas-de-kruijf/claude-overkill) ⭐ 32 | 🐛 0 | 📅 2026-05-27 - Surfaces advanced, maximalist alternatives to whatever solution is being discussed — advanced data structures, distributed-systems algorithms, niche frameworks, design patterns, and frontier tooling — each ranked on a calibrated complexity scale with learning links and the scenario in which the path pays off. *By [@santiago-vargas-de-kruijf](https://github.com/santiago-vargas-de-kruijf)*
 * [Full-Page Screenshot](https://github.com/LewisLiu007/full-page-screenshot) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-28 - Captures full-page screenshots of web pages via Chrome DevTools Protocol with zero dependencies. *By [@LewisLiu007](https://github.com/LewisLiu007)*
 * [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) ⭐ 23 | 🐛 0 | 📅 2025-10-21 - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
 * [building-blog](https://github.com/BuildShipGrowRepeat/nextjs-sanity-blog-skill) ⭐ 9 | 🐛 0 | 📅 2026-05-21 - Adds an SEO-first, i18n-ready blog to a Next.js + Sanity site via a 40-question intake, a one-page plan, and a 20-section spec. Includes a generator for AI hero images via Gemini 3 Pro Image (Nano Banana Pro). *By [@BuildShipGrowRepeat](https://github.com/BuildShipGrowRepeat)*
@@ -153,7 +153,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Data & Analysis
 
-* [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) ⭐ 294,526 | 🐛 297 | 🌐 Shell | 📅 2026-09-27 - Use when errors occur deep in execution and you need to trace back to find the original trigger.
+* [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) ⭐ 294,639 | 🐛 298 | 🌐 Shell | 📅 2026-09-27 - Use when errors occur deep in execution and you need to trace back to find the original trigger.
 * [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) ⭐ 467 | 🐛 3 | 🌐 Python | 📅 2025-10-16 - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
 * [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) ⭐ 429 | 🐛 4 | 🌐 Python | 📅 2026-09-10 - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews. *By [@sanjay3290](https://github.com/sanjay3290)*
 * [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) ⭐ 429 | 🐛 4 | 🌐 Python | 📅 2026-09-10 - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
@@ -170,7 +170,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Communication & Writing
 
-* [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) ⭐ 294,526 | 🐛 297 | 🌐 Shell | 📅 2026-09-27 - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
+* [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) ⭐ 294,639 | 🐛 298 | 🌐 Shell | 📅 2026-09-27 - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
 * [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) ⚠️ Archived - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
 * [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) ⭐ 554 | 🐛 3 | 🌐 Shell | 📅 2026-03-11 - Extract full article text and metadata from web pages.
 * [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) ⭐ 115 | 🐛 0 | 📅 2026-07-18 - Provides assistance with planning family history and genealogy research projects.
@@ -221,7 +221,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Assistive Technology
 
-* [ASD-AuDHD-PAI-Skills](https://github.com/emory/ASD-AuDHD-PAI-Skills) ⭐ 48 | 🐛 0 | 📅 2025-12-17 - New collection, first skill [pda-reframing](https://github.com/emory/ASD-AuDHD-PAI-Skills/blob/main/Skills/pda-reframing/SKILL.md) ⭐ 48 | 🐛 0 | 📅 2025-12-17 can reframe requests or decisions to defeat Persistent Demand Avoidance flavors of autism spectrum disorders, or people with ADHD that struggle to Start tasks and need help aligning with a task.
+* [ASD-AuDHD-PAI-Skills](https://github.com/emory/ASD-AuDHD-PAI-Skills) ⭐ 49 | 🐛 0 | 📅 2025-12-17 - New collection, first skill [pda-reframing](https://github.com/emory/ASD-AuDHD-PAI-Skills/blob/main/Skills/pda-reframing/SKILL.md) ⭐ 49 | 🐛 0 | 📅 2025-12-17 can reframe requests or decisions to defeat Persistent Demand Avoidance flavors of autism spectrum disorders, or people with ADHD that struggle to Start tasks and need help aligning with a task.
 
 ### App Automation via Composio
 
@@ -481,7 +481,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ### Community Resources
 
-* [Anthropic Skills Repository](https://github.com/anthropics/skills) ⭐ 179,430 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Official example skills
+* [Anthropic Skills Repository](https://github.com/anthropics/skills) ⭐ 179,462 | 🐛 1,394 | 🌐 Python | 📅 2026-09-29 - Official example skills
 * [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 * [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 
