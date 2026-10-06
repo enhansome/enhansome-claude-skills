@@ -21,7 +21,7 @@
                 "open_issues": 1387,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 179855,
+                "stars": 179854,
                 "topics": [
                   "agent-skills"
                 ]
@@ -44,7 +44,7 @@
                 "open_issues": 1387,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 179855,
+                "stars": 179854,
                 "topics": [
                   "agent-skills"
                 ]
@@ -67,7 +67,7 @@
                 "open_issues": 1387,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 179855,
+                "stars": 179854,
                 "topics": [
                   "agent-skills"
                 ]
@@ -90,7 +90,7 @@
                 "open_issues": 1387,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 179855,
+                "stars": 179854,
                 "topics": [
                   "agent-skills"
                 ]
@@ -162,7 +162,7 @@
                 "open_issues": 313,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 295807,
+                "stars": 295809,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -192,7 +192,7 @@
                 "open_issues": 313,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 295807,
+                "stars": 295809,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -222,7 +222,7 @@
                 "open_issues": 313,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 295807,
+                "stars": 295809,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -252,7 +252,7 @@
                 "open_issues": 1387,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 179855,
+                "stars": 179854,
                 "topics": [
                   "agent-skills"
                 ]
@@ -315,7 +315,7 @@
                 "open_issues": 4,
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 10198,
+                "stars": 10199,
                 "topics": [
                   "agentic",
                   "agentic-ai",
@@ -345,7 +345,7 @@
                 "id": 1189918673,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:08:40Z",
+                "last_commit": "2026-10-06T11:00:20Z",
                 "open_issues": 13,
                 "owner": "yvgude",
                 "repo": "lean-ctx",
@@ -893,7 +893,7 @@
                 "open_issues": 313,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 295807,
+                "stars": 295809,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -1110,7 +1110,7 @@
                 "open_issues": 313,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 295807,
+                "stars": 295809,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -1825,7 +1825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:56:27.718Z",
+    "last_updated": "2026-10-06T11:11:11.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",

@@ -99,7 +99,7 @@ If you receive the email, Claude is now connected to 1000+ apps.
 
 ## What Are Claude Skills?
 
-Claude Skills are reusable instruction packages that teach an AI agent how to handle a specific class of tasks. Each skill is a folder containing a `SKILL.md` file with YAML frontmatter (name, description) and Markdown instructions, optionally bundled with scripts, references, and assets. Anthropic introduced the format in October 2025 and released it as an [open standard](https://github.com/anthropics/skills) ⭐ 179,855 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 in December 2025; it's now supported by Claude Code, Claude.ai, the Claude API, OpenAI Codex, Cursor, Gemini CLI, Antigravity, and Windsurf.
+Claude Skills are reusable instruction packages that teach an AI agent how to handle a specific class of tasks. Each skill is a folder containing a `SKILL.md` file with YAML frontmatter (name, description) and Markdown instructions, optionally bundled with scripts, references, and assets. Anthropic introduced the format in October 2025 and released it as an [open standard](https://github.com/anthropics/skills) ⭐ 179,854 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 in December 2025; it's now supported by Claude Code, Claude.ai, the Claude API, OpenAI Codex, Cursor, Gemini CLI, Antigravity, and Windsurf.
 
 Skills load progressively. At session start, the agent sees only each skill's name and description — roughly 100 tokens per skill. The full SKILL.md body (typically under 5,000 tokens) loads only when the agent decides the skill is relevant to the current task. Auxiliary files in `scripts/` and `references/` load on demand. This is what lets a single agent host hundreds of skills without bloating its context window.
 
@@ -109,21 +109,21 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Document Processing
 
-* [docx](https://github.com/anthropics/skills/tree/main/skills/docx) ⭐ 179,855 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Create, edit, analyze Word docs with tracked changes, comments, formatting.
-* [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) ⭐ 179,855 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Extract text, tables, metadata, merge & annotate PDFs.
-* [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) ⭐ 179,855 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Read, generate, and adjust slides, layouts, templates.
-* [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) ⭐ 179,855 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Spreadsheet manipulation: formulas, charts, data transformations.
+* [docx](https://github.com/anthropics/skills/tree/main/skills/docx) ⭐ 179,854 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Create, edit, analyze Word docs with tracked changes, comments, formatting.
+* [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) ⭐ 179,854 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Extract text, tables, metadata, merge & annotate PDFs.
+* [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) ⭐ 179,854 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Read, generate, and adjust slides, layouts, templates.
+* [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) ⭐ 179,854 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Spreadsheet manipulation: formulas, charts, data transformations.
 * [Markdown to EPUB Converter](https://github.com/smerchek/claude-epub-skill) ⭐ 166 | 🐛 2 | 🌐 Python | 📅 2025-10-18 - Converts markdown documents and chat summaries into professional EPUB ebook files. *By [@smerchek](https://github.com/smerchek)*
 * [Master Claude for Legal](https://github.com/sboghossian/master-claude-for-legal) ⭐ 68 | 🐛 1 | 📅 2026-05-18 - Skill pack for legal teams. NDA triage, multi-party version diff, citation verifier, meeting brief, and the Friday-newsletter status synthesis pattern. Includes 10 reference docs (privilege, verification, long documents, practice areas) and 3 firm templates. Built from the public Anthropic Claude for Legal Teams webinar dataset. *By [@sboghossian](https://github.com/sboghossian)*
 
 ### Development & Code Tools
 
-* [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) ⭐ 295,807 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Guides completion of development work by presenting clear options and handling chosen workflow.
-* [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) ⭐ 295,807 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Use when implementing any feature or bugfix, before writing implementation code.
-* [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) ⭐ 295,807 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Creates isolated git worktrees with smart directory selection and safety verification.
-* [artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) ⭐ 179,855 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
+* [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) ⭐ 295,809 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Guides completion of development work by presenting clear options and handling chosen workflow.
+* [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) ⭐ 295,809 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Use when implementing any feature or bugfix, before writing implementation code.
+* [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) ⭐ 295,809 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Creates isolated git worktrees with smart directory selection and safety verification.
+* [artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) ⭐ 179,854 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 * [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 15,106 | 🐛 47 | 🌐 Python | 📅 2026-09-30 - Automatically converts any documentation website into a Claude AI skill in minutes. *By [@yusufkaraaslan](https://github.com/yusufkaraaslan)*
-* [reddit-fetch](https://github.com/ykdojo/claude-code-tips/tree/main/skills/reddit-fetch) ⭐ 10,198 | 🐛 4 | 🌐 HTML | 📅 2026-09-25 - Fetches Reddit content via Gemini CLI when WebFetch is blocked or returns 403 errors.
+* [reddit-fetch](https://github.com/ykdojo/claude-code-tips/tree/main/skills/reddit-fetch) ⭐ 10,199 | 🐛 4 | 🌐 HTML | 📅 2026-09-25 - Fetches Reddit content via Gemini CLI when WebFetch is blocked or returns 403 errors.
 * [lean-ctx](https://github.com/yvgude/lean-ctx) ⭐ 3,865 | 🐛 13 | 🌐 Rust | 📅 2026-10-06 - MCP server and context runtime for AI coding agents: session caching, AST-aware compression, and 90+ shell patterns to reduce token usage. Supports Claude Code, Cursor, Copilot, and other integrations. Install the Claude Code skill with `lean-ctx init --agent claude-code`; docs at [leanctx.com](https://leanctx.com). *By [@yvgude](https://github.com/yvgude)*
 * [Playwright Browser Automation](https://github.com/lackeyjb/playwright-skill) ⭐ 3,172 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-01 - Model-invoked Playwright automation for testing and validating web applications. *By [@lackeyjb](https://github.com/lackeyjb)*
 * [prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering) ⭐ 1,747 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-26 - Teaches well-known prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
@@ -153,7 +153,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Data & Analysis
 
-* [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) ⭐ 295,807 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Use when errors occur deep in execution and you need to trace back to find the original trigger.
+* [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) ⭐ 295,809 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Use when errors occur deep in execution and you need to trace back to find the original trigger.
 * [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) ⭐ 468 | 🐛 3 | 🌐 Python | 📅 2025-10-16 - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
 * [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) ⭐ 430 | 🐛 4 | 🌐 Python | 📅 2026-09-10 - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews. *By [@sanjay3290](https://github.com/sanjay3290)*
 * [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) ⭐ 430 | 🐛 4 | 🌐 Python | 📅 2026-09-10 - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
@@ -170,7 +170,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Communication & Writing
 
-* [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) ⭐ 295,807 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
+* [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) ⭐ 295,809 | 🐛 313 | 🌐 Shell | 📅 2026-10-06 - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
 * [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) ⚠️ Archived - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
 * [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) ⭐ 556 | 🐛 3 | 🌐 Shell | 📅 2026-03-11 - Extract full article text and metadata from web pages.
 * [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) ⭐ 116 | 🐛 0 | 📅 2026-07-18 - Provides assistance with planning family history and genealogy research projects.
@@ -481,7 +481,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ### Community Resources
 
-* [Anthropic Skills Repository](https://github.com/anthropics/skills) ⭐ 179,855 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Official example skills
+* [Anthropic Skills Repository](https://github.com/anthropics/skills) ⭐ 179,854 | 🐛 1,387 | 🌐 Python | 📅 2026-10-05 - Official example skills
 * [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 * [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 
